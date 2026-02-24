@@ -67,15 +67,19 @@ footer{
 }
 .signin{
      border-radius: 50px;
-     font-size: larger;
-     background:bro;
-}
+     font-size: xx-large;
+     background:transparent;
+     cursor: pointer;
+     color: white;;
+
+        }
 .signup{
         border-radius: 50px;
-        font-size: larger;
+        font-size: xx-large;
+        cursor: pointer;
 }
 .fourth{
-    color: white;
+    color:grey;
     font-size: 30px;
     margin-top: 100px;
     text-align: center;
@@ -87,3 +91,34 @@ footer{
     margin-top: 10px;
     text-align:left
 }
+.logos{
+    color: white;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 60px;
+    
+}
+
+.logos div{
+    color: white;
+    font-size:30px;
+    font-weight: 600;
+    color: grey
+}
+.logo-card{
+    background: #161414;
+    border-radius: 11px;
+    height: 140px;
+    width:180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ccc;
+    font-weight: 600;
+    transition: 0.3s ease;
+    margin: -10px 0px 0px 0px;
+}
+
