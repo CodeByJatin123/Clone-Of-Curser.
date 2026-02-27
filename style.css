@@ -36,7 +36,7 @@ button a{
  font-size: 50px;font-weight: bold;color: rgb(232, 240, 244);
 }
 body{
-    background-color:rgb(12, 10, 5); font-family: 'Inter', sans-serif;
+    background-color: #0d0a05;font-family: 'Inter', sans-serif;
 }
 .logo img{
   height: 20px;
@@ -52,11 +52,7 @@ body{
     font-size: 40px;
     margin-top:-70px;
 }
-.third{
-    color: white;
-    font-size: 40px;
-    margin-top: -35px;
-}
+
 footer{
     color: white;
     margin-top: 400px;
@@ -111,20 +107,6 @@ footer{
     font-weight: 600;
     color: grey
 }
-/* .logo-card{
-    background: #161414;
-    border-radius: 11px;
-    height: 140px;
-    width:180px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: #ccc;
-    font-weight: 600;
-    transition: 0.3s ease;
-    margin: -10px 0px 0px 0px;
-     transition: 0.3s ease;
-} */
 
 .logo-card1:hover{
     scale:1.1;
@@ -143,33 +125,4 @@ footer{
     transition: 0.3s ease;
     margin: -10px 0px 0px 0px;
      transition: 0.3s ease;
-}
-.sixth{
-    color:white;
-    display: flex;
-    justify-content: center;
-    font-size: 50px;;
-}
-.icons{
-    display:flex;
-    justify-content: center;
-    gap:410px;
-    font-size: 19px;
-    margin-top: 100px;
-}
-
-.icons div{
-    color: white;
-    font-size: 22px;
-    font-weight: 600;
-    color: grey
-}
-.icons1{
-     background: #161414;
-    border-radius:11px;
-    height: 170px;
-    width:px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
